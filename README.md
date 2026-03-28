@@ -36,3 +36,5 @@ A smart and automated parking gate system built with Arduino. The system uses a 
 4. If correct, the servo opens the gate (90 degrees) and displays `Please Pass...`.
 5. The system continuously monitors both sensors. The gate **will only close** when both sensors read a distance > 25cm, ensuring the car has completely cleared the gate area.
 6. The gate closes, and the system resets.
+7. <img width="1341" height="735" alt="Screenshot 2026-03-28 205420" src="https://github.com/user-attachments/assets/f227e346-7e30-49bb-b5a8-322ce5fa1145" />
+
